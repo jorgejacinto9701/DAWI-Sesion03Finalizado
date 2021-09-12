@@ -1,4 +1,4 @@
-# DAWI-Sesion03Inicio
+# DAWI-Sesion03Finalizado
 ### Registro en dos tablas relacionadas en JPA
 
 ## Autor ✒️
